@@ -1,0 +1,8 @@
+{
+  "labels":[
+    "non-vacancy",
+    "vacancy"
+  ],
+  "threshold":0.5,
+  "positive_label":null
+}
